@@ -42,6 +42,7 @@ Watch the project demo video here: [FreeRTOS Smart Fan Controller Demo](https://
 - `Core/Inc/`: application headers and generated STM32 headers
 - `Drivers/`: STM32 HAL and CMSIS drivers
 - `Middlewares/`: FreeRTOS middleware
+- `notes_code/`: supporting Markdown notes about STM32 basics, timers, interrupts, DMA, UART, and DWT
 - `Debug/`: STM32CubeIDE debug build output
 
 ## Main Modules
